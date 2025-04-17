@@ -1,3 +1,4 @@
+require 'paper_trail/attribute_serializers/attribute_serializer_factory'
 require 'paper_trail_binary_serializer/base64'
 require 'paper_trail_binary_serializer/version'
 
